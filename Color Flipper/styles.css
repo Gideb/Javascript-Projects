@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", "sans-serif";
+}
+
+body {
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    border: 1px solid #002;
+    border-radius: 5px;
+    font-size: 12px;
+    width: 130px;
+    height: 50px;
+    margin: 30px;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+
+footer{
+    margin-bottom: -2%;
+}

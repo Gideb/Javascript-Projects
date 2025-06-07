@@ -1,3 +1,3 @@
 # Javascript Projects
 
-These are several beginner javascript projects
+These are my beginner javascript projects
